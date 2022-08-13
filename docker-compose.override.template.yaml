@@ -1,0 +1,5 @@
+services:
+  briefkasten:
+    environment:
+      GITHUB_ID: <ID>
+      GITHUB_SECRET: <SECRET>

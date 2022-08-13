@@ -40,3 +40,6 @@ log.txt
 
 # Supabase
 .supabase
+
+# Docker Compose
+docker-compose.override.yaml
